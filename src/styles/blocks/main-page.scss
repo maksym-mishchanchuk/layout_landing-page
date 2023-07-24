@@ -1,8 +1,0 @@
-.main-page {
-  @include paddingInline;
-  margin-bottom: 120px;
-
-  @include onDesktop {
-    margin-bottom: 182px;
-  }
-}
